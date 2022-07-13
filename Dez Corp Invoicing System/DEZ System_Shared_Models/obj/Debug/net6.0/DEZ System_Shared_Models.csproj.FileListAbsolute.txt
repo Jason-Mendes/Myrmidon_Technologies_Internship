@@ -1,0 +1,12 @@
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\bin\Debug\net6.0\DEZ System_Shared_Models.deps.json
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\bin\Debug\net6.0\DEZ System_Shared_Models.dll
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\bin\Debug\net6.0\DEZ System_Shared_Models.pdb
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\DEZ System_Shared_Models.csproj.AssemblyReference.cache
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\DEZ System_Shared_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\DEZ System_Shared_Models.AssemblyInfoInputs.cache
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\DEZ System_Shared_Models.AssemblyInfo.cs
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\DEZ System_Shared_Models.csproj.CoreCompileInputs.cache
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\DEZ System_Shared_Models.dll
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\refint\DEZ System_Shared_Models.dll
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\DEZ System_Shared_Models.pdb
+C:\Users\jaxme\source\repos\Dez Corp Invoicing System\DEZ System_Shared_Models\obj\Debug\net6.0\ref\DEZ System_Shared_Models.dll
