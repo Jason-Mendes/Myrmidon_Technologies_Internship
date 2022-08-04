@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaxme\\source\\repos\\Dez Corp Invoicing System\\DEZ System_Shared_Models\\DEZ System_Shared_Models.csproj",
+      "projectUniqueName": "C:\\Users\\jaxme\\source\\repos\\Myrmidon_Technologies_Internship\\Dez Corp Invoicing System\\DEZ System_Shared_Models\\DEZ System_Shared_Models.csproj",
       "projectName": "DEZ System_Shared_Models",
-      "projectPath": "C:\\Users\\jaxme\\source\\repos\\Dez Corp Invoicing System\\DEZ System_Shared_Models\\DEZ System_Shared_Models.csproj",
+      "projectPath": "C:\\Users\\jaxme\\source\\repos\\Myrmidon_Technologies_Internship\\Dez Corp Invoicing System\\DEZ System_Shared_Models\\DEZ System_Shared_Models.csproj",
       "packagesPath": "C:\\Users\\jaxme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaxme\\source\\repos\\Dez Corp Invoicing System\\DEZ System_Shared_Models\\obj\\",
+      "outputPath": "C:\\Users\\jaxme\\source\\repos\\Myrmidon_Technologies_Internship\\Dez Corp Invoicing System\\DEZ System_Shared_Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

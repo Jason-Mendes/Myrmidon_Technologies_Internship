@@ -1,0 +1,29 @@
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\appsettings.json
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\Dez Corp Invoicing System.staticwebassets.runtime.json
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\Dez Corp Invoicing System.exe
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\Dez Corp Invoicing System.deps.json
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\Dez Corp Invoicing System.runtimeconfig.json
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\Dez Corp Invoicing System.dll
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\Dez Corp Invoicing System.pdb
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\DEZ System_Shared_Models.dll
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\bin\Debug\net6.0\DEZ System_Shared_Models.pdb
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.csproj.AssemblyReference.cache
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.AssemblyInfoInputs.cache
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.AssemblyInfo.cs
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.csproj.CoreCompileInputs.cache
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.RazorAssemblyInfo.cache
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.RazorAssemblyInfo.cs
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\scopedcss\bundle\Dez Corp Invoicing System.styles.css
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\scopedcss\projectbundle\Dez Corp Invoicing System.bundle.scp.css
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.csproj.CopyComplete
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.dll
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\refint\Dez Corp Invoicing System.dll
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.pdb
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\Dez Corp Invoicing System.genruntimeconfig.cache
+C:\Users\jaxme\source\repos\Myrmidon_Technologies_Internship\Dez Corp Invoicing System\Dez Corp Invoicing System\obj\Debug\net6.0\ref\Dez Corp Invoicing System.dll

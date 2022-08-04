@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dez Corp Invoicing System/1.0.0": {
+        "runtime": {
+          "Dez Corp Invoicing System.dll": {}
+        }
+      },
+      "DEZ System_Shared_Models/1.0.0": {
+        "runtime": {
+          "DEZ System_Shared_Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dez Corp Invoicing System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DEZ System_Shared_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
